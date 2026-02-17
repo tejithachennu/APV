@@ -24,6 +24,8 @@ A high-performance, interactive educational tool built with **Streamlit** to vis
 
 
 ## 💻 Technical Setup
+
 ### Installation
 1. **Clone the repository**:
-   ```bashgit clone https://github.com/tejithachennu/algorithm-visualizer.git
+   ```bash
+   git clone [https://github.com/tejithachennu/APV.git](https://github.com/tejithachennu/APV.git)
